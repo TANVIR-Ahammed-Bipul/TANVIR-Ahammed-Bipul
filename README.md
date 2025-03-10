@@ -1,4 +1,4 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif)](https://github.com/TANVIR-Ahammed-Bipul)
+[![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)](https://github.com/TANVIR-Ahammed-Bipul)
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahammed Bipul</h1>
 <h3 align="center">AI & Cybersecurity Enthusiast | Final-Year CSE Undergraduate</h3>
